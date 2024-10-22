@@ -1,0 +1,43 @@
+<companies>
+  <company>
+    <name>TechWave Solutions</name>
+    <industry>Technology</industry>
+    <website>www.techwave.com</website>
+    <address>123 Silicon Valley Blvd, San Jose CA 95129</address>
+    <email>contact@techwave.com</email>
+    <phone>+1 (408) 555-1212</phone>
+  </company>
+  <company>
+    <name>GreenLeaf Organics</name>
+    <industry>Agriculture</industry>
+    <website>www.greenleaforganics.co</website>
+    <address>786 Greenway St, Austin TX 78701</address>
+    <email>info@greenleaforganics.co</email>
+    <phone>+1 (512) 555-3456</phone>
+  </company>
+  <company>
+    <name>SkyHigh Aerospace</name>
+    <industry>Aerospace</industry>
+    <website>www.skyhighaero.com</website>
+    <address>980 Flight Dr, Seattle WA 98109</address>
+    <email>support@skyhighaero.com</email>
+    <phone>+1 (206) 555-9876</phone>
+  </company>
+  <company>
+    <name>Global Financial Group</name>
+    <industry>Finance</industry>
+    <website>www.globalfinancial.com</website>
+    <address>455 Wall St, New York NY 10005</address>
+    <email>inquiry@globalfinancial.com</email>
+    <phone>+1 (212) 555-2233</phone>
+  </company>
+  <company>
+    <name>BrightPath Education</name>
+    <industry>Education</industry>
+    <website>www.brightpathedu.org</website>
+    <address>67 Scholar Ave, Boston MA 02118</address>
+    <email>admissions@brightpathedu.org</email>
+    <phone>+1 (617) 555-8901</phone>
+  </company>
+</companies>
+
